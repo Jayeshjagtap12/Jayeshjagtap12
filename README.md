@@ -1,3 +1,4 @@
+![logo](https://github.com/Jayeshjagtap12/Jayeshjagtap12/blob/main/images%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Jayesh Jagtap</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshjagtap12&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshjagtap12" /> </p>
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m currently learning **data science** and **web devlopment**
 
 - 💬 Ask me about **stock market**
 
